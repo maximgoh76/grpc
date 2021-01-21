@@ -1,5 +1,4 @@
-package grpc.serverRun;
-
+package grpc.client;
 
 /*
  * Copyright 2020 The gRPC Authors
@@ -25,10 +24,10 @@ import java.net.InetAddress;
 import java.util.Random;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
 import grpc.api.helloworld.HelloReply;
 import grpc.api.helloworld.HelloRequest;
 import grpc.api.helloworld.GreeterGrpc;
+
 /** Greeter implementation which replies identifying itself with its hostname. */
 public final class HostnameGreeter extends GreeterGrpc.GreeterImplBase {
   private static final Logger logger = Logger.getLogger(HostnameGreeter.class.getName());
@@ -60,6 +59,4 @@ public final class HostnameGreeter extends GreeterGrpc.GreeterImplBase {
     // Strange. Well, let's make an identifier for ourselves.
     return "generated-" + new Random().nextInt();
   }
-  
-  
 }
