@@ -14911,3 +14911,97 @@ Caused by: java.lang.IllegalArgumentException: Can not set org.eclipse.aether.sp
 2021-01-20 17:53:40,864 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-01-20 17:53:40,865 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-01-20 17:53:40,867 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:27:27,810 [Worker-69] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.max:grpc.serverRun:0.0.1-SNAPSHOT @ C:\Projects\grpc\git\grpc\grpc_max\grpc.serverRun\pom.xml.
+2021-01-21 08:27:29,176 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java-util/${protobuf.version}/protobuf-java-util-${protobuf.version}.pom
+2021-01-21 08:27:29,179 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.google.protobuf:protobuf-java-util:jar:${protobuf.version} is missing, no dependency information available
+2021-01-21 08:27:29,378 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java-util/${protobuf.version}/protobuf-java-util-${protobuf.version}.jar
+2021-01-21 08:27:29,644 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.google.protobuf:protobuf-java-util:jar:${protobuf.version} is missing, no dependency information available
+2021-01-21 08:27:29,780 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.google.protobuf:protobuf-java-util:jar:${protobuf.version} is missing, no dependency information available
+2021-01-21 08:27:30,188 [Worker-73] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-netty-shaded//grpc-netty-shaded-.pom
+2021-01-21 08:27:30,190 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-netty-shaded:jar: is missing, no dependency information available
+2021-01-21 08:27:30,345 [Worker-73] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf//grpc-protobuf-.pom
+2021-01-21 08:27:30,347 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-protobuf:jar: is missing, no dependency information available
+2021-01-21 08:27:30,537 [Worker-73] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-stub//grpc-stub-.pom
+2021-01-21 08:27:30,539 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-stub:jar: is missing, no dependency information available
+2021-01-21 08:27:30,733 [Worker-73] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/grpc/grpc-testing//grpc-testing-.pom
+2021-01-21 08:27:30,738 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-testing:jar: is missing, no dependency information available
+2021-01-21 08:28:44,587 [Worker-70] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.max:grpc.serverRun:0.0.1-SNAPSHOT @ C:\Projects\grpc\git\grpc\grpc_max\grpc.serverRun\pom.xml.
+2021-01-21 08:28:45,083 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-netty-shaded:jar: is missing, no dependency information available
+2021-01-21 08:28:45,083 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-protobuf:jar: is missing, no dependency information available
+2021-01-21 08:28:45,098 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-stub:jar: is missing, no dependency information available
+2021-01-21 08:28:45,104 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-testing:jar: is missing, no dependency information available
+2021-01-21 08:30:11,840 [Worker-70] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.max:grpc.serverRun:0.0.1-SNAPSHOT @ C:\Projects\grpc\git\grpc\grpc_max\grpc.serverRun\pom.xml.
+2021-01-21 08:30:12,329 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-protobuf:jar: is missing, no dependency information available
+2021-01-21 08:30:12,333 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-stub:jar: is missing, no dependency information available
+2021-01-21 08:30:12,339 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-testing:jar: is missing, no dependency information available
+2021-01-21 08:30:20,655 [Worker-70] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.max:grpc.serverRun:0.0.1-SNAPSHOT @ C:\Projects\grpc\git\grpc\grpc_max\grpc.serverRun\pom.xml.
+2021-01-21 08:30:21,127 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-stub:jar: is missing, no dependency information available
+2021-01-21 08:30:21,131 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-testing:jar: is missing, no dependency information available
+2021-01-21 08:30:23,145 [Worker-69] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.max:grpc.serverRun:0.0.1-SNAPSHOT @ C:\Projects\grpc\git\grpc\grpc_max\grpc.serverRun\pom.xml.
+2021-01-21 08:30:23,511 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.grpc:grpc-testing:jar: is missing, no dependency information available
+2021-01-21 08:30:28,684 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.max:grpc.serverRun:0.0.1-SNAPSHOT @ C:\Projects\grpc\git\grpc\grpc_max\grpc.serverRun\pom.xml.
+2021-01-21 08:30:28,873 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-21 08:30:28,873 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:30:28,875 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-21 08:30:28,875 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:30:30,086 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-21 08:30:30,086 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:30:30,087 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-21 08:30:30,088 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:30:35,000 [Worker-74] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-01-21 08:30:35,064 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.max:grpc.serverRun:0.0.1-SNAPSHOT @ C:\Projects\grpc\git\grpc\grpc_max\grpc.serverRun\pom.xml.
+2021-01-21 08:30:35,278 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /grpc.serverRun/src/main/java
+2021-01-21 08:30:35,279 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /grpc.serverRun/src/main/resources
+2021-01-21 08:30:35,292 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /grpc.serverRun/src/test/java
+2021-01-21 08:30:35,292 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /grpc.serverRun/src/test/resources
+2021-01-21 08:30:35,630 [Worker-74] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-01-21 08:30:35,812 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-21 08:30:35,813 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:30:35,814 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-21 08:30:35,814 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:36:24,228 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-21 08:36:24,229 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:36:24,230 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-21 08:36:24,231 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:38:51,568 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-21 08:38:51,569 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:38:51,570 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-01-21 08:38:51,570 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:39:00,628 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Projects\grpc\git\grpc\grpc_max\grpc.server
+2021-01-21 08:39:00,628 [Worker-78] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-01-21 08:39:17,585 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2021-01-21 08:39:17,608 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2021-01-21 08:39:17,610 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-21 08:39:17,613 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:39:17,614 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-21 08:39:17,615 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-21 08:39:17,616 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-21 08:39:17,619 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:39:18,034 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2021-01-21 08:39:18,047 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2021-01-21 08:39:18,048 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-21 08:39:18,049 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:39:18,050 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-21 08:39:18,052 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-01-21 08:39:18,053 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-21 08:39:18,054 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-21 08:39:39,223 [Worker-75] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
